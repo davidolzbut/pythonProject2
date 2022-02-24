@@ -1,5 +1,5 @@
 # This is a sample Python script.
-# zmena 1
+# zmena 1, 2
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
